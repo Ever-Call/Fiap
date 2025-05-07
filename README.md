@@ -1,1 +1,1 @@
-Estou salvando o conteúdo aprendio no github
+Estou salvando o conteúdo aprendido no github
