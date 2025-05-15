@@ -51,30 +51,34 @@
 
 #media dos numeros no arrays
 #no mesmo array, contar a quantidade de pares
-numeros = [9,7,3,5,2,1,8,6,0,4]
-print(len(numeros))#retorna 10
-pares = 0
-for num in numeros:
-    if num%2 ==0:
-        pares +=1
+# numeros = [9,7,3,5,2,1,8,6,0,4]
+# print(len(numeros))#retorna 10
+# pares = 0
+# for num in numeros:
+#     if num%2 ==0:
+#         pares +=1
 
-soma = 0
-for i in range(len(numeros)):
-    soma += numeros[i]
-    print(i) # i começa do 0
-print(soma)
+# soma = 0
+# for i in range(len(numeros)):
+#     soma += numeros[i]
+#     print(i) # i começa do 0
+# print(soma)
 
-print(i)
-lista = []
-lsita.append(349)
-print(lista)
-lista.append(67)
-print(lista)
-lista.append(765)
-print(lista)
+# print(i)
+# lista = []
+# lsita.append(349)
+# print(lista)
+# lista.append(67)
+# print(lista)
+# lista.append(765)
+# print(lista)
 
-lista = [9,7,3,5,2,1,8,6,0,4]
-
-for num in lista {
-    
-}
+preco = [600,50,880,100,5]
+carros = ['mustang','up','gol','POLINHO','uno']
+indicie_maior = 0
+maior = preco[0]
+for i in range(len(preco)):
+    if preco[i]>maior:
+        maior = preco[1]
+        indicie_maior = i
+print(f'O carro mais caro é o {carros[indicie_maior]}')
