@@ -1,0 +1,17 @@
+opcoes = ['Pergola', 'Sangue de Boi', 'Salton']
+# while not escolha in opcoes:
+#     escolha = input('Qual vinho você quer?\n->')
+
+def forcar_opcao(msg, lista_opcoes):
+    opcoes = ', '.join(lista_opcoes) # '\n'.join(lista_opcoes) é outra opção viavel
+    escolha = input(f'{msg}\n{opcoes}\n->')
+    while not escolha in opcoes:
+        escolha = input(f'{msg}\n{opcoes}\n->')
+    return escolha
+
+vinho = forcar_opcao('qual o vinho voce quer?', opcoes)
+print(f'Você escolheu o {vinho}')
+opcoes = ['s','n']
+continuar = forcar_opcao('Você quer continuar?({opcoes})\n', opcoes)
+print(f'Você disse {continuar}')
+
