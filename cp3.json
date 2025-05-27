@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "frase":"Vacinas causam autismo",
+        "status":"falso ❌",
+        "justificativa":"Não há evidências científicas que comprovem essa relação. Estudos rigorosos demonstraram que vacinas não causam autismo."
+    },
+    {
+        "id": 2,
+        "frase":"A Terra é plana",
+        "status":"falso ❌",
+        "justificativa":"A evidência científica, incluindo imagens de satélites e observações astronômicas, confirma que a Terra é um esferoide oblato."
+    },
+    {
+        "id": 3,
+        "frase":"Os transgênicos são perigosos para a saúde",
+        "status":"falso ❌",
+        "justificativa":"A maioria dos estudos científicos conclui que os alimentos transgênicos são seguros para consumo e não apresentam riscos à saúde."
+    },
+    {
+        "id": 4,
+        "frase":"O uso de celulares causa câncer",
+        "status":"falso ❌",
+        "justificativa":"Não há evidências conclusivas que liguem o uso de celulares ao câncer. A pesquisa continua, mas até agora não foi encontrada uma relação clara."
+    },
+    {
+        "id": 5,
+        "frase": "Chocolate causa acne",
+        "status": "falso ❌",
+        "justificativa":"Não há evidências científicas que comprovem essa relação. A acne é causada por uma combinação de fatores, incluindo hormônios e bactérias."
+    },
+    {
+        "id": 6,
+        "frase":"Beber água ajuda a manter o corpo hidratado",
+        "status": "verdadeiro ✅",
+        "justificativa":"A água é essencial para a vida e desempenha um papel crucial na regulação da temperatura corporal, transporte de nutrientes e eliminação de resíduos."
+    },
+    {
+        "id": 7,
+        "frase":"A água ferve a 100°C ao nível do mar.",
+        "status": "verdadeiro ✅",
+        "justificativa":"A água ferve a 100°C ao nível do mar, mas essa temperatura pode variar com a pressão atmosférica. Em altitudes mais elevadas, a água ferve a temperaturas mais baixas."
+    },
+    {
+        "id": 8,
+        "frase":"A luz viaja mais rápido que o som.",
+        "status":"verdadeiro ✅",
+        "justificativa":"A luz viaja a aproximadamente 299.792 km/s no vácuo, enquanto o som viaja a cerca de 343 m/s no ar a 20°C. Portanto, a luz é muito mais rápida que o som."
+    },
+    {
+        "id": 9,
+        "frase":"A Lua influencia as marés na Terra.",
+        "status":"verdadeiro ✅",
+        "justificativa":"A gravidade da Lua puxa a água dos oceanos, criando marés altas e baixas. Esse fenômeno é bem documentado e estudado na oceanografia."
+    },
+    {
+        "id": 10,
+        "frase":"A matemática é usada em praticamente todas as áreas da ciência.",
+        "status":"verdadeiro ✅",
+        "justificativa":"A matemática é a linguagem da ciência. Ela é usada para modelar fenômenos naturais, analisar dados e fazer previsões em diversas disciplinas, como física, química, biologia e economia."
+    }
+]
