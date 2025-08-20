@@ -1,0 +1,8 @@
+-Sequencia de comando usado no dia 20/08/2025, veja:
+-npm instal --global yarn
+-yarn create vite blogpessoal --template react-ts
+-cd blogpessoal
+-yarn
+-yarn dev
+-jsx = javascript com xml
+-<></> = fragmento
